@@ -46,4 +46,7 @@ Lucide Icons – icons used in the Navbar
 
 Recharts - for charts
 
+
+## Demo:
+
 ![image alt](https://github.com/CodeWithAnji/dashboard/blob/bf00916b6ff43313c8ffbe0d0e7a8d89265bcd3e/Screenshot_8-9-2025_161113_dashboard-teal-omega-70.vercel.app.jpeg)
