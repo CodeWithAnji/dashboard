@@ -22,7 +22,7 @@ This project is a **responsive dashboard** built with **React + TailwindCSS**, f
 
 ### 1️. Clone the repo
 
-git clone 
+git clone https://github.com/CodeWithAnji/dashboard.git
 cd dashboard
 
 #### 2. Install dependencies
